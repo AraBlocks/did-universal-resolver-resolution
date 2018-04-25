@@ -1,0 +1,33 @@
+{
+  "name": "did-universal-resolver-resolution",
+  "version": "1.0.0",
+  "description": "Decentralized Identity (DID) Universal Resolver resolution helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "decentralized",
+    "identity",
+    "did",
+    "universal",
+    "resolver",
+    "resolution",
+    "result"
+  ],
+  "author": "Joseph Werle <werle@littlstar.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "did-universal-resolver-driver": "^0.1.0",
+    "tape": "^4.9.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlstar/did-universal-resolver-resolution.git"
+  },
+  "bugs": {
+    "url": "https://github.com/littlstar/did-universal-resolver-resolution/issues"
+  },
+  "homepage": "https://github.com/littlstar/did-universal-resolver-resolution#readme"
+}
