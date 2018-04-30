@@ -1,6 +1,6 @@
 {
   "name": "did-universal-resolver-resolution",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Decentralized Identity (DID) Universal Resolver resolution helpers",
   "main": "index.js",
   "scripts": {
