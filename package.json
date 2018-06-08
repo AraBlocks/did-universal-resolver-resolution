@@ -4,7 +4,7 @@
   "description": "Decentralized Identity (DID) Universal Resolver resolution helpers",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "ava test"
   },
   "keywords": [
     "decentralized",
@@ -18,8 +18,8 @@
   "author": "Joseph Werle <werle@littlstar.com>",
   "license": "MIT",
   "devDependencies": {
-    "did-universal-resolver-driver": "^0.1.0",
-    "tape": "^4.9.0"
+    "ava": "^0.25.0",
+    "did-universal-resolver-driver": "^0.1.0"
   },
   "dependencies": {},
   "repository": {
