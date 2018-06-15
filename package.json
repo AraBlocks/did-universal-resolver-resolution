@@ -4,7 +4,7 @@
   "description": "Decentralized Identity (DID) Universal Resolver resolution helpers",
   "main": "index.js",
   "scripts": {
-    "test": "node test",
+    "test": "ava test",
     "lint": "eslint .",
     "lint-fix": "eslint --fix ."
   },
